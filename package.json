@@ -1,0 +1,21 @@
+{
+  "name": "lightning_talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio ./talk_test_example/wdio.conf.js",
+    "chat": "wdio ./chat_example/wdio.conf.js",
+    "webrtc": "wdio ./webrtc_example/wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wdio-dot-reporter": "0.0.6",
+    "wdio-mocha-framework": "^0.5.4",
+    "wdio-spec-reporter": "0.0.3",
+    "webdriverio": "^4.4.0",
+    "webdriverrtc": "^1.0.0"
+  }
+}
