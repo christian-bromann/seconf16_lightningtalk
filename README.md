@@ -39,4 +39,4 @@ At the end I tried an experiment where I ask the audience to applaud so we can t
 $ npm test
 ```
 
-And yes, my talked passed. Wooohoo 👏 👏 👏
+And yes, my talk passed. Wooohoo 👏 👏 👏
