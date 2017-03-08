@@ -3,6 +3,10 @@ SeConf16 Lightning Talk
 
 This repository contains all example files of my SeConf16 lightning talk on multiremote testing with [WebdriverIO](http://webdriver.io/).
 
+## Recording
+
+[![Christian Bromann WebdriverIO Lightning Talk](https://img.youtube.com/vi/FoTCmWvaQME/3.jpg)](https://www.youtube.com/watch?v=FoTCmWvaQME&feature=youtu.be&t=4m06s)
+
 ## Installation
 
 You need a NodeJS version >= 5.10.1. Then run:
